@@ -26,4 +26,7 @@ Replication files:
   09_ROBUSTNESS.R: runs all the different robustness checks
   10_FIGURES.R: produces the figures included in the manuscript
   
-  Tagsets folder: includes six different tagsets that when uploaded to the NLS investigator produce the datasets of interest. Each R Script above specifies which of these tagsets should be used in each step. 
+Tagsets: six different tagsets are available that when uploaded to the NLS investigator produce the datasets of interest. Each R Script above specifies which of these tagsets should be used in each step. These are:
+
+occupations.NLSY79; children_base.CHILDYA; mother_educ.CHILDYA; controls.NLY79; additional_children.CHILDYA; additional_mothers.NLSY79
+
